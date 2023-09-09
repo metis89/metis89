@@ -83,4 +83,4 @@
 ### <img src="https://media2.giphy.com/media/e7Umq1OnvscrbdSKse/giphy.gif?cid=ecf05e47kc0c0lmbxc7smruuhyvl4711o7uopzi0azwui1us&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"> How to reach me:  
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irene-alonso-vivas/)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-hudson-carretero/)  
