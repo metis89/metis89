@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hi+there!+I'm+Sofia;I'm+a+Full-Stack+Developer+)](https://git.io/typing-svg)
 <img align="right" alt="coffee" width="350" src="https://i.pinimg.com/originals/d4/c9/bd/d4c9bd92de8bfe0d03ba4f185c623886.gif" />
 
-- 🌱 I’m currently learning **Angular.js**
+- 💬 Ask me about **React, Redux, TypeScript, MongoDB**
 
 - 👯 I’m looking to collaborate with **an International Team**
 
-- 💬 Ask me about **React, Redux, TypeScript, MongoDB**
+- 🌱 I’m currently learning **Angular.js**
 
 - 📚 I'm interested in **Python and SQL**
 
