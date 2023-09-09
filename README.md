@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **React, Redux, TypeScript, MongoDB**
 
-- 👯 I’m looking to collaborate with **an International Team**
-
 - 🌱 I’m currently learning **Angular.js**
 
 - 📚 I'm interested in **Python and SQL**
